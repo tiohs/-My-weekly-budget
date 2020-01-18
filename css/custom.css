@@ -1,5 +1,7 @@
 body {
     background: url('../144565.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 header {
     margin: 30px 0;
