@@ -9,7 +9,7 @@
 Windows, OS X & Linux:
 
 ```sh
-clone https://github.com/HamiltonMassango/-My-weekly-budget.git
+git clone https://github.com/HamiltonMassango/-My-weekly-budget.git
 ```
 
 ## Release History
